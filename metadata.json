@@ -1,0 +1,5 @@
+{
+  "name": "AI Dynamic Refund Compliance Checker",
+  "description": "An AI-powered tool to evaluate refund eligibility based on order history and product policies using Mistral AI and Supabase.",
+  "requestFramePermissions": []
+}
